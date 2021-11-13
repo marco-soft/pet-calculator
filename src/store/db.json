@@ -1,0 +1,33 @@
+{
+  "Cachorros": [
+    {
+      "Meses": "2-4",
+      "Porcentaje": 0.1
+    },
+    {
+      "Meses": "4-6",
+      "Porcentaje": 0.08
+    },
+    {
+      "Meses": "6-8",
+      "Porcentaje": 0.04
+    },
+    {
+      "Meses": "8-12",
+      "Porcentaje": 0.04
+    }
+  ],
+  "Razas medianas y grandes": [
+    { "Nivel de Actividad Fisica": "Normal", "Porcentaje": 0.025 },
+    { "Nivel de Actividad Fisica": "Activo", "Porcentaje": 0.03 }
+  ],
+  "Razas Pequenas": [
+    { "Nivel de Actividad Fisica": "Sedentario", "Porcentaje": 0.03 },
+    { "Nivel de Actividad Fisica": "Normal", "Porcentaje": 0.04 },
+    { "Nivel de Actividad Fisica": "Activo", "Porcentaje": 0.05 }
+  ],
+  "Gatos": [
+    { "Nivel de actividad fisica": "Solo en casa", "Porcentaje": 0.04 },
+    { "Nivel de actividad fisica": "Casa y calle", "Porcentaje": 0.05 }
+  ]
+}
