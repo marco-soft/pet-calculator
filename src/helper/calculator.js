@@ -22,6 +22,7 @@ module.exports = {
   },
   mediana: {
     racionDiaria: (nivel, peso) => {
+      console.log(nivel, peso)
       const medianas = dbObj["Razas medianas y grandes"];
       return (
         _.find(medianas, (c) => c["Nivel de Actividad Fisica"] === nivel)
